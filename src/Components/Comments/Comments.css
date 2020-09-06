@@ -1,0 +1,16 @@
+.imageSection{
+    padding: 10px;
+    text-align: center;
+}
+.images{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.commentSection{
+    border-radius: 20px !important; 
+    background-color: rgba(246, 241, 241, 0.979) !important;
+    padding: 10px !important;
+    margin: 10px 15px !important;
+}
+
